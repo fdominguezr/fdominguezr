@@ -1,16 +1,20 @@
-## Hi there 👋
+# Francisco Dominguez
 
-<!--
-**fdominguezr/fdominguezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical Engineer | Technical Project Management | Automation & Applied AI**
 
-Here are some ideas to get you started:
+I work at the intersection of engineering, technical project delivery, and software-enabled automation. My background includes control systems and industrial automation, and I am increasingly focused on practical ways to make AI-assisted workflows more reliable and useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of focus
+
+- **Engineering & delivery:** technical project management, systems integration, requirements and stakeholder coordination.
+- **Automation & software:** Python, control systems, data analysis and workflow automation.
+- **Applied AI:** experimenting with language models, AI-assisted development, evaluation and reliable agent workflows.
+- **Embedded systems & robotics:** hands-on technical interests, prototyping and edge computing.
+
+### How I approach problems
+
+I value clear requirements, pragmatic engineering, traceable decisions, measurable results, and attention to security, privacy and failure modes.
+
+### Connect
+
+[LinkedIn](https://es.linkedin.com/in/franciscodominguez/es)
